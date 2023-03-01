@@ -1,0 +1,122 @@
+[
+  {
+    "option c": "Regression testing",
+    "option d": "Sanity testing",
+    "answer": "a",
+    "Question": "Which testing is done by developer?",
+    "option a": "Unit testing",
+    "option b": "Integration testing"
+  },
+  {
+    "option c": "Closed-box testing",
+    "option d": "Security testing",
+    "answer": "d",
+    "Question": "Which is non functional testing?",
+    "option a": "Unit testing",
+    "option b": "Integration testing"
+  },
+  {
+    "option c": "Endurance testing",
+    "option d": "All of the above",
+    "answer": "d",
+    "Question": "Which is performance testing ?",
+    "option a": "Spike testing",
+    "option b": "Scalability testing"
+  },
+  {
+    "option c": "9",
+    "option d": "10",
+    "answer": "a",
+    "Question": "How many principles of testing are there?",
+    "option a": "7",
+    "option b": "8"
+  },
+  {
+    "option c": "4",
+    "option d": "5",
+    "answer": "b",
+    "Question": "How many types of prority of bug/defect are there?",
+    "option a": "2",
+    "option b": "3"
+  },
+  {
+    "option c": "Critical",
+    "option d": "Major",
+    "answer": "c",
+    "Question": "A defect indicates complete shutdown of the process. Which types of severity of bug it falls under?",
+    "option a": "Low",
+    "option b": "Medium"
+  },
+  {
+    "option c": "Exploratory testing",
+    "option d": "Monkey testing",
+    "answer": "b",
+    "Question": "Test is conducted at one or more customer sites by the end-user of the software. Which type of testing is this?",
+    "option a": "Alpha testing",
+    "option b": "Beta testing"
+  },
+  {
+    "option c": "System testing",
+    "option d": "Acceptance testing",
+    "answer": "c",
+    "Question": "A type of testing where tester evaluates the whole system against the specified requirements",
+    "option a": "Integration testing",
+    "option b": "Unit testing"
+  },
+  {
+    "option c": "Penetration testing",
+    "option d": "Volume testing",
+    "answer": "d",
+    "Question": "Flood testing is another name of -",
+    "option a": "Endurance testing",
+    "option b": "Scalability testing"
+  },
+  {
+    "option c": "Load testing",
+    "option d": "Stress testing",
+    "answer": "a",
+    "Question": "Soak testing is another name of -",
+    "option a": "Endurance testing",
+    "option b": "Volume testing"
+  },
+  {
+    "option c": "5",
+    "option d": "6",
+    "answer": "b",
+    "Question": "How many levels of testing ?",
+    "option a": "3",
+    "option b": "4"
+  },
+  {
+    "option c": "4",
+    "option d": "5",
+    "answer": "a",
+    "Question": "How many types of testing based on the test execution?",
+    "option a": "2",
+    "option b": "3"
+  },
+  {
+    "option c": "2",
+    "option d": "4",
+    "answer": "c",
+    "Question": "How many types of testing based on the testing objectives?",
+    "option a": "3",
+    "option b": "5"
+  },
+  {
+    "option c": "3",
+    "option d": "2",
+    "answer": "d",
+    "Question": "How many types of acceptance testing?",
+    "option a": "4",
+    "option b": "5"
+  },
+  {
+    "option c": "Adhoc testing",
+    "option d": "Localization testing",
+    "answer": "c",
+    "Question": "An unstructured way of testing that is performed without any formal documentation",
+    "option a": "Volume testing",
+    "option b": "Sanity testing"
+  }
+]
