@@ -23,6 +23,8 @@ public class QuizManager {
             int totalQues= 5;
             int score = TakeQuiz.startQuiz(totalQues);
             System.out.println("\nYou got "+score+" out of "+totalQues);
+        }else{
+            System.out.println("Inavlid option");
         }
     }
 }
